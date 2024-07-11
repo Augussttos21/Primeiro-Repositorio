@@ -1,0 +1,5 @@
+
+Variável Inteira - Recebe números positivos e negativos, sem casas decimais 
+Variável Real - Números positivos ou negativos que podem ter casas decimais
+Variável Texto - Recebe informações do tipo texto
+Variável Logica ou Booleana - Só recebe dois valores: Verdadeiro ou Falso

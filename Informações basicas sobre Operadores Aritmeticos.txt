@@ -1,0 +1,7 @@
+Operadores Aritméticos 
+
++ - Soma 
+- - Subtração 
+* - Multiplicação 
+/ - Divisão 
+MOD (%) - Resto de Divisão - Utilizado principalmente para saber se um numero é par ou impar, MOD 2 = 0 Significa que é par 

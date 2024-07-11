@@ -1,0 +1,15 @@
+Operadores Lógicos
+
+E (AND) && - Verdadeiro / Verdadeiro = Verdadeiro  
+             Verdadeiro / Falso = Falso
+             Falso / Verdadeiro = Falso
+             Falso / Falso = Falso 
+
+Ou (OR) || - Verdadeiro / Verdadeiro = Verdadeiro 
+             Verdadeiro / Falso = Verdadeiro
+             Falso / Verdadeiro = Verdadeiro 
+             Falso / Falso = Falso 
+
+Não (NOT) ! - Inverte valores  
+              Verdadeiro = Falso 
+              Falso = Verdadeiro 

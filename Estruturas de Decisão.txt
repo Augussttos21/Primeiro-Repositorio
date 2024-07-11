@@ -1,0 +1,14 @@
+Estruturas de Decisão
+
+Símbolo losango deitado 
+
+Se (IF) <Expressão Logica> Pergunta
+Então (THEN)
+Faça algo 
+Senão (ELSE) 
+Faça Algo
+
+Senão é opcional muita das vezes 
+
+Em um fluxograma a bolinha preta é o conector
+Podemos ter um encadeamento de estruturas de decisão 

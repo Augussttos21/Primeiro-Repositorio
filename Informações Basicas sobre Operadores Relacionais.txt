@@ -1,0 +1,8 @@
+Operadores Relacionais 
+
+== Igual a - Pode ser verdadeiro ou falso
+> Maior que - Pode ser verdadeiro ou falso
+< Menor que - Pode ser verdadeiro ou falso 
+>= Maior ou Igual a - Pode ser verdadeiro em dois casos ou falso 
+<= Menor ou Igual a - Pode ser verdadeiro em dois casos ou falso 
+!=  <> Diferente de - Pode ser verdadeiro ou falso
